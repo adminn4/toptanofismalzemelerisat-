@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188640590513",
+    "project_id": "toptanuygulamam",
+    "storage_bucket": "toptanuygulamam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188640590513:android:19976b2ad53db818614090",
+        "android_client_info": {
+          "package_name": "com.example.toptansatis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTu8oygo-iY5Hw0NCkpu5AJmkLOwDgMHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
