@@ -1,17 +1,29 @@
-# toptansatis
+# 🛒 Toptan Satış ve Sipariş Uygulaması
 
-A new Flutter project.
+Bu proje, toptan ürün siparişi vermek isteyen müşteriler için geliştirilmiş, Firebase altyapısına sahip bir B2B (Business to Business) mobil e-ticaret uygulamasıdır.
 
-## Getting Started
+## 🚀 Özellikler
+* **Güvenli Kimlik Doğrulama:** Firebase Auth ile E-posta/Şifre üzerinden kayıt ve giriş.
+* **Ürün Listeleme:** Dinamik ürün kartları ve stok durumu takibi.
+* **Akıllı Sepet Yönetimi:** Provider (State Management) kullanılarak anlık fiyat ve adet hesaplama.
+* **Kullanıcı Dostu Arayüz:** BottomNavigationBar ile kesintisiz sayfa geçişleri.
+* **Profil ve Çıkış:** Güvenli oturum kapatma ve şirket bilgileri görüntüleme.
 
-This project is a starting point for a Flutter application.
+## 📸 Ekran Görüntüleri
 
-A few resources to get you started if this is your first Flutter project:
+| Kayıt / Giriş Ekranı | Ürünler Sayfası |
+|:---:|:---:|
+| <img src="screenshots/flutter_01.png" width="250"> | <img src="screenshots/flutter_02.png" width="250"> |
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+| Ürün Detay ve Adet | Sepet ve Toplam Tutar |
+|:---:|:---:|
+| <img src="screenshots/flutter_03.png" width="250"> | <img src="screenshots/flutter_04.png" width="250"> |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Ödeme Ekranı | Şirket Profili |
+|:---:|:---:|
+| <img src="screenshots/flutter_05.png" width="250"> | <img src="screenshots/flutter_06.png" width="250"> |
+
+## 🛠 Kullanılan Teknolojiler
+* **Framework:** Flutter (Dart)
+* **Veritabanı ve Yetkilendirme:** Firebase Authentication
+* **State Management:** Provider
